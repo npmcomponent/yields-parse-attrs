@@ -1,0 +1,12 @@
+{
+  "name": "yields-parse-attrs",
+  "description": "attributes parser.",
+  "version": "0.0.1",
+  "keywords": [
+    "parser",
+    "attrs"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
